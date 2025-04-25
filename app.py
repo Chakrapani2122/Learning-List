@@ -7,14 +7,14 @@ st.set_page_config(page_title="Learning Library")
 
 # List of Jupyter notebooks in the current directory
 notebooks = [
-    "Big_Data_Analytics.ipynb",
-    "DBMS_SQL.ipynb",
-    "DBMS.ipynb",
-    "Mac_Keyboard_Shortcuts.ipynb",
-    "Machine_Learning.ipynb",
     "Python_Programming.ipynb",
     "R_Programming.ipynb",
+    "DBMS.ipynb",
+    "DBMS_SQL.ipynb",
     "SQL.ipynb"
+    "Big_Data_Analytics.ipynb",
+    "Machine_Learning.ipynb",
+    "Mac_Keyboard_Shortcuts.ipynb",
 ]
 
 # Sidebar for navigation
